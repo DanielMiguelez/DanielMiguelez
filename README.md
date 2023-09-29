@@ -8,7 +8,7 @@
 - 😄 Hi, I’m Daniel Miguélez, from València, Spain.
 - 👀 I’m interested in web development and its apps, learning machine, and computational linguistics.
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning a Fullstack MERN Web Development bootcamp at The Bridge | Digital Talent Accelerator, in València, Spain.
+- 🌱 I’m currently workin as a teacher assistant at The Bridge | Digital Talent Accelerator, in València, Spain.
 - 💞️ I’m looking to collaborate on any well organized company with an interesting project.
 
 
